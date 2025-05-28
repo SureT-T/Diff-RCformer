@@ -1,6 +1,6 @@
 # Diff-RCformer:A diffusion-augmented Recursive Context Transformer forimage super-resolution.
 
-[Shuo Wang], [Shuzhen XU](https://dgzsdxzz.github.io/ShuzhenXu/), Cuicui Lv, Chaoqing Ma, and Fangbo Ca, "Diff-RCformer: A diffusion-augmented Recursive Context Transformer forimage super-resolution", Knowledge-Based Systems, 2025
+Shuo Wang, [Shuzhen XU](https://dgzsdxzz.github.io/ShuzhenXu/), Cuicui Lv, Chaoqing Ma, and Fangbo Ca, "Diff-RCformer: A diffusion-augmented Recursive Context Transformer forimage super-resolution", Knowledge-Based Systems, 2025
 
 [[paper]()] [[visual results]( https://pan.baidu.com/s/18ml_ubj3bWq36tOJcmHD4A?pwd=vdms)] [[pretrained models](https://pan.baidu.com/s/19uFjSrC5W4NtpfmpJNL9SA?pwd=4jhv)]
 
