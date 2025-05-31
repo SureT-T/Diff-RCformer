@@ -117,7 +117,14 @@ Run `python test_x4.py` to test scale 4 on benchmark datasets.
 If you find the code helpful in your research or work, please cite the following paper(s).
 
 ```
-
+@article{wang2025diff,
+  title={Diff-RCformer: A diffusion-augmented Recursive Context Transformer for image super-resolution},
+  author={Wang, Shuo and Xu, Shuzhen and Lv, Cuicui and Ma, Chaoqing and Cai, Fangbo},
+  journal={Knowledge-Based Systems},
+  pages={113758},
+  year={2025},
+  publisher={Elsevier}
+}
 ```
 
 
